@@ -56,14 +56,14 @@ class Moto {
     }
 
     public descerPassageiro(): void {
-        this.passageiro?.setDinheiro(- this.custo);
-
-        this.motorista?.setDinheiro(this.custo);
-
         if (this.passageiro?.getDinheiro() < this.custo){
             console.log("fail: Passenger does not have enough money");
             this.passageiro?.setDinheiro(0);
+        } else {
+        this.passageiro?.setDinheiro(- this.custo);
         }
+
+        this.motorista?.setDinheiro(this.custo);
 
         this.custo = 0;
         
