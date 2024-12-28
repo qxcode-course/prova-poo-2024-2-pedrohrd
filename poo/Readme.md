@@ -40,19 +40,23 @@ Significado das tags nas questões:
 - [ ] `@animal      :test`[Animal que nasce, cresce, morre](https://github.com/qxcodepoo/arcade/blob/master/base/animal/Readme.md)
 - [ ] `@carro       :test`[Um carro simples](https://github.com/qxcodepoo/arcade/blob/master/base/carro/Readme.md)
 - [ ] `@calculadora :test`[Uma calculadora com bateria](https://github.com/qxcodepoo/arcade/blob/master/base/calculadora/Readme.md)
+- [ ] `@enxugar     :test`[Toalha com testes](https://github.com/qxcodepoo/arcade/blob/master/base/enxugar/Readme.md)
 
 ### Modificadores de Acesso
 
 - [ ] `@chinela     :open`[Comprando uma chinela 40/41](https://github.com/qxcodepoo/arcade/blob/master/base/chinela/Readme.md)
 - [ ] `@camisa      :open`[Comprando uma camisa XG](https://github.com/qxcodepoo/arcade/blob/master/base/camisa/Readme.md)
+- [ ] `@roupa       :test`[Roupa com testes](https://github.com/qxcodepoo/arcade/blob/master/base/roupa/Readme.md)
 - [ ] `@relogio     :test`[Garante uma hora válida no relógio](https://github.com/qxcodepoo/arcade/blob/master/base/relogio/Readme.md)
 
 ### Agregação Simples
 
 - [ ] `@notebook    :open`[Notebook com carregador e bateria](https://github.com/qxcodepoo/arcade/blob/master/base/notebook/Readme.md)
-- [ ] `@grafite     :test`[Porta minas de um grafite só](https://github.com/qxcodepoo/arcade/blob/master/base/grafite/Readme.md)
 - [ ] `@motoca      :test`[Crianças andando de motoca](https://github.com/qxcodepoo/arcade/blob/master/base/motoca/Readme.md)
+- [ ] `@grafite     :test`[Porta minas de um grafite só](https://github.com/qxcodepoo/arcade/blob/master/base/grafite/Readme.md)
+- [ ] `@motouber    :test`[MotoUber com motorista e passageiro](https://github.com/qxcodepoo/arcade/blob/master/base/motouber/Readme.md)
 - [ ] `@tamagotchi  :test`[Alimente, brinque e mate](https://github.com/qxcodepoo/arcade/blob/master/base/tamagotchi/Readme.md)
+- [ ] `@charger     :test`[Notebook com TESTES](https://github.com/qxcodepoo/arcade/blob/master/base/charger/Readme.md)
 
 ### ArrayList I - Listas
 
@@ -65,7 +69,6 @@ Significado das tags nas questões:
 ### ArrayList II - Arrays de Null
 
 - [ ] `@cinema      :test`[Gerenciando reservas e cancelamentos de uma sala de cinema](https://github.com/qxcodepoo/arcade/blob/master/base/cinema/Readme.md)
-- [ ] `@topic       :test`[Gerenciando assentos prioritários e normais](https://github.com/qxcodepoo/arcade/blob/master/base/topic/Readme.md)
 - [ ] `@junkfood    :test`[Comprando comida cara e duvidosa](https://github.com/qxcodepoo/arcade/blob/master/base/junkfood/Readme.md)
 
 ### ArrayList III - Composição e Enum
@@ -78,8 +81,6 @@ Significado das tags nas questões:
 
 - [ ] `@agenda      :test`[Gerencie os vários contatos de uma agenda](https://github.com/qxcodepoo/arcade/blob/master/base/agenda/Readme.md)
 - [ ] `@agiota      :test`[Gerencie os empŕestimos do agiota](https://github.com/qxcodepoo/arcade/blob/master/base/agiota/Readme.md)
-- [ ] `@evento      :test`[Bilheteria de um evento](https://github.com/qxcodepoo/arcade/blob/master/base/evento/Readme.md)
-- [ ] `@setor       :test`[Eventos e setores em uma bilheteria](https://github.com/qxcodepoo/arcade/blob/master/base/setor/Readme.md)
 
 ### Herança I
 
@@ -87,11 +88,6 @@ Significado das tags nas questões:
 - [ ] `@estacionamento :test`[Cobrando o valor de carros e motos](https://github.com/qxcodepoo/arcade/blob/master/base/estacionamento/Readme.md)
 - [ ] `@cofre          :test`[Seu porquinho cresceu](https://github.com/qxcodepoo/arcade/blob/master/base/cofre/Readme.md)
 - [ ] `@cadastro       :test`[Crie as contas poupança e corrente](https://github.com/qxcodepoo/arcade/blob/master/base/cadastro/Readme.md)
-
-### Referências Cruzadas
-
-- [ ] `@matricula      :test`[Vínculos entre alunos e disciplina](https://github.com/qxcodepoo/arcade/blob/master/base/matricula/Readme.md)
-- [ ] `@twitter        :test`[Twitter antes de ser bloqueado](https://github.com/qxcodepoo/arcade/blob/master/base/twitter/Readme.md)
 
 ## Linguagem C++
 
@@ -135,6 +131,7 @@ Significado das tags nas questões:
 
 ### Em atualização
 
+- [ ] `@twitter        :test`[Twitter antes de ser bloqueado](https://github.com/qxcodepoo/arcade/blob/master/base/twitter/Readme.md)
 - [ ] [@salario](https://github.com/qxcodepoo/arcade/blob/master/base/salario/Readme.md)
 - [ ] [@comunicador](https://github.com/qxcodepoo/arcade/blob/master/base/comunicador/Readme.md)
 - [ ] [@paciente](https://github.com/qxcodepoo/arcade/blob/master/base/paciente/Readme.md)
